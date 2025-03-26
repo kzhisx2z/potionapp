@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajJiOVlBenIrb3ozZ2VNVVVNUWJhOW5BQ011a2FVdUo5MUVsQ3hLUG15ak5pWFpCUTcxT055bm1seFVFZ2xJU0c4T0JUSVlTUTZ0aHZuVTU0YjBiRlBMYy9MbklRT2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzMDI1NTQzCWZpbGU6cG90aW9uYXBwXzAuMi4wX3g2NF9lbi1VUy5tc2kKeFNBbXNhUG5NOTRaVXl1UkVnbXpvcEs4OURYdEc4Y1J3Qm1WVUxseXNFK1Z2SXV1U2NFYmE5aVpGeDZnOGtNSk45SGJOUlRwdk42SDVsU0dBcml2Q2c9PQo=",
-      "url": "https://github.com/kzhisx2z/potionapp/releases/download/0.2.0/potionapp_0.2.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRajJiOVlBenIrb3hvRXo0REhhVnU4RmNpK1owZ0d1UjhOaEpzWFFQU0JUSGoweWRWSmxsdzRTY2dlNVd3T0krM2YwRTd1UFp4UTMxTDRzZE5TR3YxczRBaXYxZFVDY1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzMDI1OTAyCWZpbGU6cG90aW9uYXBwXzAuMy4wX3g2NF9lbi1VUy5tc2kKS0s0VGRCbCtsYjRDWkc4Y2Q5QVNJOTcrSEtkMVgxMUoxOEpZZ2szSnJJK08wUjBZSndBdEp3QzI1QnRKVnczVEN2eXptQXBnS1NnMjJvcVAyV0JEQWc9PQo=",
+      "url": "https://github.com/kzhisx2z/potionapp/releases/download/0.3.0/potionapp_0.3.0_x64_en-US.msi"
     },
   }
 }
